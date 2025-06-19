@@ -66,8 +66,8 @@ server/src/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/mindfulMachineLath/bolttech-test.git
-   cd bolttech-carental
+   git clone https://github.com/hagarcol/bolttech-test.git
+   cd bolttech-test
    ```
 
 2. **Backend Setup**
