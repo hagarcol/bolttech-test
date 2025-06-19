@@ -17,6 +17,9 @@ A modern, component-based car rental platform built for Bolttech Barcelona's ful
 - **Instant Booking**: One-click booking with comprehensive validation
 - **Real-time Feedback**: Instant success/error notifications
 
+![image](https://github.com/user-attachments/assets/4c173425-94f0-4275-8366-e1c121ea170c)
+![image](https://github.com/user-attachments/assets/e04133e4-0d03-49a1-a758-475cd50c9e6b)
+![image](https://github.com/user-attachments/assets/c7ae67b3-df77-429d-8f0f-f685b5eb1ee2)
 
 ## Architecture Overview
 
